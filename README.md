@@ -27,3 +27,7 @@ Os intervalor de temperaturas até 30ºc serão indicados por um led verde. As t
 
 Todo o monitoramento da temperatura será observado em uma tela LCD 16x2, que indicará cada ação dos atuadores de acordo com as variações de leitura das temperaturas da estufa.
 
+### Acesso
+
+Para acessar o projeto, clique [aqui](https://www.tinkercad.com/things/lpydKm0aDDG?sharecode=WgzNxWF8IQgdZofqUS9JNlHQdHW5CPi5CeQ4F_z9uQ0).
+
